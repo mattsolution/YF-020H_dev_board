@@ -94,6 +94,45 @@ I/0 control interface (First six pin connector under wifi antenna connector)
 - Pin 5: GPIO-0
 - Pin 6: VCC 3.3V output
 
+LVDS interface:
+| Pin Number | Function | Attributes | Description                              |
+|------------|----------|------------|------------------------------------------|
+| 1          | PVCC     | power output | LCD power output, +3.3V/+5V/+12V optional, selected through CN5 |
+| 2          | "        | "          | "                                         |
+| 3          | "        | "          | "                                        |
+| 4          | GND      | ground     | Ground                                   |
+| 5          | "        | "          | "                                        |
+| 6          | "        | "          | "                                        |
+| 7          | RXO0-    | output     | Pixel0 Negative Data (Odd)               |
+| 8          | RX00+    | output     | Pixel0 Positive Data (Odd)               |
+| 9          | RX01-    | output     | Pixel1 Negative Data (Odd)               |
+| 10         | RX01+    | output     | Pixel1 Positive Data (Odd)               |
+| 11         | RXO2-    | output     | Pixel2 Negative Data (Odd)               |
+| 12         | RXO2+    | output     | Pixel2 Positive Data (Odd)               |
+| 13         | GND      | ground     | Ground                                   |
+| 14         | GND      | ground     | Ground                                   |
+| 15         | RXOC-    | output     | Negative Sampling Clock (Odd)            |
+| 16         | RXOC+    | output     | Positive Sampling Clock (Odd)            |
+| 17         | RX03-    | output     | Pixel3 Negative Data (Odd)               |
+| 18         | RXO3+    | output     | Pixel3 Positive Data (Odd)               |
+| 19         | RXEO-    | output     | Pixel0 Negative Data (Even)              |
+| 20         | RXEO+    | output     | Pixel0 Positive Data (Even)              |
+| 21         | RXE1-    | output     | Pixel1 Negative Data (Even)              |
+| 22         | RXE1+    | output     | Pixel1 Positive Data (Even)              |
+| 23         | RXE2-    | output     | Pixel2 Negative Data (Even)              |
+| 24         | RXE2+    | output     | Pixel2 Positive Data (Even)              |
+| 25         | GND      | ground     | Ground                                   |
+| 26         | GND      | ground     | Ground                                   |
+| 27         | RXEC-    | output     | Negative Sampling Clock (Even)           |
+| 28         | RXEC+    | output     | Positive Sampling Clock (Even)           |
+| 29         | RXE3-    | output     | Pixel3 Negative Data (Even)              |
+| 30         | RXE3+    | output     | Pixel3 Positive Data (Even)              |
+| 31         | RX04-    | output     | Pixel4 Negative Data (Odd)               |
+| 32         | RXO4+    | output     | Pixel4 Positive Data (Odd)               |
+| 33         | RXE4-    | output     | Pixel4 Negative Data (Even)              |
+| 34         | RXE4+    | output     | Pixel4 Positive Data (Even)              |
+
+
 <p align="center">
   <img src="figures/YF-020H_pcb_dimensions.png" width="1200px" />
 </div>
