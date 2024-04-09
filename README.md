@@ -7,5 +7,6 @@ This is a rockchip RK3288 develipement board I found in a touchscreen table who 
 It is currently running on android 6.0 lollipop
 
 # Technical information about the board
-I contacted Maria (maria@cndlcd.com) from CND Electronic Technology (Shenzhen) Co. Ltd. whon confirmed me that the board is no more in production but she gave me the some information about the board
+I contacted Maria (maria@cndlcd.com) from CND Electronic Technology (Shenzhen) Co. Ltd. who confirmed me that the board is no more in production but she gave me the some information about the board
 
+![alt banner](YF-020H_board_front_side.png)
