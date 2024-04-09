@@ -1,4 +1,4 @@
-# YF-020H_dev_board
+# YF-020H dev board
 Everything I could gather about the YF-020H development board
 
 ![alt banner](figures/YF-020H_dev_board.jpg)
