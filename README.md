@@ -12,5 +12,5 @@ I contacted Maria (maria@cndlcd.com) from CND Electronic Technology (Shenzhen) C
 <p align="center">
   <img src="figures/YF-020H_board_front_side.png" width="1200px" />
 </div>
-<p align="center">Figure 1: An exploded view of the Skotobx</p>
+<p align="center">Front side of the board</p>
 
