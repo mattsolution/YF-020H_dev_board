@@ -97,12 +97,8 @@ I/0 control interface (First six pin connector under wifi antenna connector)
 LVDS interface:
 | Pin Number | Function | Attributes | Description                              |
 |------------|----------|------------|------------------------------------------|
-| 1          | PVCC     | power output | LCD power output, +3.3V/+5V/+12V optional, selected through CN5 |
-| 2          | "        | "          | "                                         |
-| 3          | "        | "          | "                                        |
-| 4          | GND      | ground     | Ground                                   |
-| 5          | "        | "          | "                                        |
-| 6          | "        | "          | "                                        |
+| 1-2-3         | PVCC     | power output | LCD power output, +3.3V/+5V/+12V optional, selected through CN5 |
+| 4-5-6          | GND      | ground     | Ground                                   |
 | 7          | RXO0-    | output     | Pixel0 Negative Data (Odd)               |
 | 8          | RX00+    | output     | Pixel0 Positive Data (Odd)               |
 | 9          | RX01-    | output     | Pixel1 Negative Data (Odd)               |
