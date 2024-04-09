@@ -32,6 +32,68 @@ Main Hardware Specification
 </div>
 <p align="center">Front side of the board</p>
 
+Built-in power control interface:
+Pin 1: STANDBY
+Pin 2: STANDBY-5V (Power supply)
+Pin 3: GND 
+Pin 4: GND
+Pin 5: VCC 12V in
+Pin 6: VCC 12V in
+
+RTC interface:
+Pin 1: RTC (3V)
+Pin 2: GND
+
+IR receiver interface:
+Pin 1: VCC
+Pin 2: GND
+Pin 3: IR
+
+On/Off indicator light interface
+Pin 1: Red LED
+Pin 2: GND
+Pin 3: Green LED
+
+I2C TP interface:
+Pin 1: VCC
+Pin 2: INT (input/output)
+Pin 3: RST (input/output)
+Pin 4: SDA (data)
+Pin 5: SCL (clock)
+Pin 6: GND
+
+Serial interfaces (UART):
+Pin 1: VCC (3.3V)
+Pin 2: TX
+Pin 3: RX
+Pin 4: GND
+
+Loudpeaker interface:
+Pin 1: R+
+Pin 2: R-
+Pin 3: L-
+Pin 4: L+
+
+MIC interface
+Pin 1: Mic -
+Pin 2: Mic +
+
+Backlight control interface:
+Pin 1: GND
+Pin 2: GND
+Pin 3: Backlight brightness control
+Pin 4: Backlight enable control
+Pin 5: VCC 12V Out
+Pin 6: VCC 12V Out
+
+I/0 control interface (First six pin connector under wifi antenna connector)
+Pin 1: GND
+Pin 2: ADKEY
+Pin 3: GPIO-3
+Pin 4: GPIO-1
+Pin 5: GPIO-0
+Pin 6: VCC 3.3V output
+
 <p align="center">
   <img src="figures/YF-020H_pcb_dimensions.png" width="1200px" />
 </div>
