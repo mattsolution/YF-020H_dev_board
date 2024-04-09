@@ -97,5 +97,5 @@ I/0 control interface (First six pin connector under wifi antenna connector)
 <p align="center">
   <img src="figures/YF-020H_pcb_dimensions.png" width="1200px" />
 </div>
-<p align="center">PCB Size and Port Layout</p>
+<p align="center">PCB Size and Port Layout. Square pads normally represent Pin 1</p>
 
