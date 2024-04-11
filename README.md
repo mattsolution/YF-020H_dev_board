@@ -146,6 +146,6 @@ The color code is adapted for [TROTEC](https://www.troteclaser.com/en-us/) JobCo
 3D print:
 The STL files allow to print the two plates that go over and under the board.
 
-For both Laser cut and 3D pritned plates screws and risers are necessary. The models have been designed to fit a 40mm fan for board cooling
+For both Laser cut and 3D pritned plates screws and risers are necessary. The models have been designed to fit a 40mm fan for board cooling and a 12mm power pushbutton
 
 The models are free to use and licensed under CC BY-NC-SA 4.0. To view a copy of this license, [visit creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/)
