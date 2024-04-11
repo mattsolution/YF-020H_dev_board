@@ -136,8 +136,8 @@ LVDS interface:
 
 ## Board enclosure designs
 
-<a href="enclosures/Top_part.STL" download>Top plate</a>
-<a href="enclosures/Bottom_part.STL" download>Bottom plate</a>
+<a href="enclosure/Top_part.STL" download>Top plate</a><br>
+<a href="enclosure/Bottom_part.STL" download>Bottom plate</a>
 
 Laser cut:
 The images have been generated from STL models to be used for laser cut and engraving
