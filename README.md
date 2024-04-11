@@ -134,3 +134,18 @@ LVDS interface:
 </div>
 <p align="center">PCB Size and Port Layout. Square pads normally represent Pin 1</p>
 
+## Board enclosure designs
+
+<a href="enclosures/Top_part.STL" download>Top plate</a>
+<a href="enclosures/Bottom_part.STL" download>Bottom plate</a>
+
+Laser cut:
+The images have been generated from STL models to be used for laser cut and engraving
+THe color code is adapted for TROTEC Job Control software. Red color cuts and black engraves
+
+3D print:
+The STL files allow to print the two plates that go over and under the board.
+
+For both Laser cut and 3D pritned plates screws and risers are necessary. The models have been designed to fit a 40mm fan for board cooling
+
+The models are free to use and licensed under CC BY-NC-SA 4.0. To view a copy of this license, [visit creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/)
