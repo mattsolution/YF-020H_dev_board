@@ -141,7 +141,7 @@ LVDS interface:
 
 Laser cut:
 The images have been generated from STL models to be used for laser cut and engraving
-THe color code is adapted for TROTEC Job Control software. Red color cuts and black engraves
+The color code is adapted for [visit TROTEC](https://www.troteclaser.com/en-us/) JobControl software. Red color cuts and black engraves
 
 3D print:
 The STL files allow to print the two plates that go over and under the board.
