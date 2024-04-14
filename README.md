@@ -136,6 +136,11 @@ LVDS interface:
 
 ## Board enclosure designs
 
+<p align="center">
+  <img src="figures/Assembled_laser_cut_case.jpg" width="1200px" />
+</div>
+<p align="center">Acrylic case</p>
+
 <a href="enclosure/Top_part.STL" download>Top plate</a><br>
 <a href="enclosure/Bottom_part.STL" download>Bottom plate</a>
 
